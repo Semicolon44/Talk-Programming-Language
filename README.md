@@ -1,2 +1,2 @@
 # Talk-Programming-Language
-Eas
+Easiest (jk) Programming Language in the World
